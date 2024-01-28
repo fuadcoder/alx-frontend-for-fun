@@ -65,4 +65,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+* **Olasupo Olamide** - [fuadcoder](https://github.com/fuadcoder)
